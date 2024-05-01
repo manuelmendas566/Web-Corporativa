@@ -1,0 +1,180 @@
+.fondo_web { 
+	background: #121008; 
+}
+	
+.fondo_cabecera { 
+	background: #e96c36; 
+}
+
+.fondo_titulos { 
+	background: #123d47; 
+}
+
+.fondo_texto { 
+	background: #f8efe6; 
+}
+
+.texto_titulos {
+    color: white;
+}
+
+.cabecera_top {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 64px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 75px;
+    color: #f8efe6;
+}
+
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.izquierda {
+    float: left;
+    width: 70%;
+    padding: 10px;
+    height: 1500px;
+}
+
+.derecha {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 1500px;
+}
+
+.navegador {
+    padding: 10px;
+}
+
+.titulo_rojo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red; 
+}
+
+.caja {
+    border: 2px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #e96c36;
+    margin-top: 20px;
+}
+
+.boton {
+    background-color: #123d47;
+    color: #f8efe6;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.boton:hover {
+    color: #e96c36;
+}
+
+.link {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: #f8efe6;
+}
+
+.tarjeta_20 {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin-right: 5%;
+}
+
+.tarjeta_45 {
+    float: left;
+    width: 45%;
+    padding: 10px;
+    margin-right: 5%;
+}
+
+.span_5 {
+    float: left;
+    width: 5%;
+}
+
+
+
+.datospersonales {
+    background-color: gray;
+}
+.fieldset {
+    background-color: crimson;
+    text-align: left;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+#titulodatospersonales {
+    font-size: 30px;
+    color: aqua;
+}
+
+#inscripción {
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center  ;
+}
+
+#Nombre {
+    width: 125px;
+}
+
+
+
+#calle{
+    width: 400px;
+}
+
+
+.acceso {
+    background-color: lightyellow;
+}
+
+#requisitosdeacceso {
+    font-size: 30px;
+    color: aqua;
+}
+
+.otros {
+    width: 500px;
+}
+
+.documentacion{
+    background-color: lightgreen;
+}
+
+
+
+
+#documentacion{
+    font-size: 30px;
+    color: aqua;
+
+}
+
+.comunicacion {
+    background-color: lightsalmon;
+}
+
+#comunicacion {
+    font-size: 30px;
+    color: aqua;
+}
+
+#firma {
+    width: 100px;
+    height: 100px;
+}
